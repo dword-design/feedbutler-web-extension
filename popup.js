@@ -1,4 +1,4 @@
-import styleCode from '@/assets/style.scss'
+import styleCode from './assets/style.scss'
 
 const style = document.createElement('style')
 style.type = 'text/css'
