@@ -28,5 +28,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "baseConfig": "@dword-design/web-extension"
+  "baseConfig": {
+    "name": "@dword-design/web-extension",
+    "startUrl": "https://digitalhub.de",
+    "chromeExtensionId": "lgggpbihnkcfmcilhngfcglmehjmbglf"
+  }
 }
