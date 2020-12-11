@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/feedbutler-web-extension/compare/v1.0.0...v1.0.1) (2020-12-11)
+
+
+### Bug Fixes
+
+* add chrome id ([4bcc0eb](https://github.com/dword-design/feedbutler-web-extension/commit/4bcc0ebe5705bc70e255444586b45adc91e73801))
+
 # 1.0.0 (2020-12-11)
 
 
