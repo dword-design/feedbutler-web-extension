@@ -3,6 +3,16 @@
 
 ### Bug Fixes
 
+* restore icon ([50fc1c4](https://github.com/dword-design/feedbutler-web-extension/commit/50fc1c4a3de4c5be76015011948a024d4515ffec))
+* restore icon ([73e32f7](https://github.com/dword-design/feedbutler-web-extension/commit/73e32f70b1ccab3766f66a3c539cf00c721ced56))
+* temporarily remove icon ([4292f17](https://github.com/dword-design/feedbutler-web-extension/commit/4292f17d8724ec9217c3c47d6ead3518c7a003e3))
+* upgrades ([21a0f26](https://github.com/dword-design/feedbutler-web-extension/commit/21a0f26db435eba18058b4cbdbe0c6306df1843c))
+
+## [1.0.2](https://github.com/dword-design/feedbutler-web-extension/compare/v1.0.1...v1.0.2) (2021-02-17)
+
+
+### Bug Fixes
+
 * upgrades ([21a0f26](https://github.com/dword-design/feedbutler-web-extension/commit/21a0f26db435eba18058b4cbdbe0c6306df1843c))
 
 ## [1.0.1](https://github.com/dword-design/feedbutler-web-extension/compare/v1.0.0...v1.0.1) (2020-12-11)
