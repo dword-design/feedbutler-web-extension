@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dword-design/feedbutler-web-extension/compare/v1.0.1...v1.0.2) (2021-02-17)
+
+
+### Bug Fixes
+
+* upgrades ([21a0f26](https://github.com/dword-design/feedbutler-web-extension/commit/21a0f26db435eba18058b4cbdbe0c6306df1843c))
+
 ## [1.0.1](https://github.com/dword-design/feedbutler-web-extension/compare/v1.0.0...v1.0.1) (2020-12-11)
 
 
