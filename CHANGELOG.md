@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/dword-design/feedbutler-web-extension/compare/v1.0.5...v1.0.6) (2021-03-31)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#9](https://github.com/dword-design/feedbutler-web-extension/issues/9)) ([fcb0cc9](https://github.com/dword-design/feedbutler-web-extension/commit/fcb0cc94245eb4c42b3289d86dfc236ace9ada6d))
+
 ## [1.0.5](https://github.com/dword-design/feedbutler-web-extension/compare/v1.0.4...v1.0.5) (2021-03-22)
 
 
