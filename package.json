@@ -1,7 +1,7 @@
 {
   "name": "@dword-design/feedbutler-web-extension",
   "version": "1.0.7",
-  "description": "",
+  "description": null,
   "repository": "dword-design/feedbutler-web-extension",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
@@ -33,5 +33,7 @@
     "name": "@dword-design/web-extension",
     "startUrl": "https://digitalhub.de",
     "chromeExtensionId": "lgggpbihnkcfmcilhngfcglmehjmbglf"
-  }
+  },
+  "homepage": null,
+  "keywords": []
 }
